@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366288952343",
+    "project_id": "mychatapp-721ce",
+    "storage_bucket": "mychatapp-721ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366288952343:android:2bb3e1bc9c42c698189052",
+        "android_client_info": {
+          "package_name": "com.aleynahasagdas.mychatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLrxVCeJeVMSZlatLo6_-2fbQ5LZE17CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
